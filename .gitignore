@@ -1,0 +1,5 @@
+dist/scripts/unix/config.conf
+make.sh
+do.sh
+basic
+notebooks/.ipynb_checkpoints
