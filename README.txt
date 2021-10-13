@@ -29,5 +29,5 @@ VSCodeで、図1のように操作することができます。
     - 上部メニュー ＞ ファイル ＞ フォルダーをワークスペースに追加 (c:\projects\arp)
 - 議論のためにweb版も用意する予定です。
 
-![VSCode](https://raw.githubusercontent.com/todorokit/arp/master/images/vscode.pngg)
+![VSCode](https://raw.githubusercontent.com/todorokit/arp/master/images/vscode.png)
 図1. VSCode
