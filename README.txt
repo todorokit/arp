@@ -6,26 +6,28 @@
 ## 以下をインストールしましょう
 
 - git
-- vscode
+[git](https://git-scm.com/)
+
+- VSCode
+[VSCode](https://code.visualstudio.com/)
 
 ## 使い方
 
-powershellでc:\projectsでgit cloneして、c:\projects\arp以下にこのプロジェクトを配置します。
+localでの使い方
+
+1. powershellを開きます
+2. 下記コマンドを打ちます
 ```
 cd /
 mkdir projects
-cd projects
 git clone https://github.com/todorokit/arp.git
 ```
 
-vscodeで、図1のように操作することができます。
+VSCodeで、図1のように操作することができます。
 
-- 上部メニュー ＞ ファイル ＞ フォルダーをワークスペースに追加 (c:\projects\arp)
+- 手順
+    - 上部メニュー ＞ ファイル ＞ フォルダーをワークスペースに追加 (c:\projects\arp)
+- 議論のためにweb版も用意する予定です。
 
-注意：python の バージョン に依存します。
-プログラム実行時の画像の出力が悲しくなります。
-
-[vscode.png](images/vscode.png)
-図1. vscode
-
-議論のためにweb版も用意する予定です。
+![VSCode](https://raw.githubusercontent.com/todorokit/arp/master/images/vscode.pngg)
+図1. VSCode
