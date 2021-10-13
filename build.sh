@@ -1,3 +1,4 @@
+# jupyter version
 pip3 install -U pip
 pip3 install jupyter
 pip3 install numpy

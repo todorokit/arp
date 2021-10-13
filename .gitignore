@@ -3,3 +3,4 @@ make.sh
 do.sh
 basic
 notebooks/.ipynb_checkpoints
+deploy.sh
